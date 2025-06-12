@@ -1,0 +1,86 @@
+
+// --- GLOBAL ---
+* {
+  box-sizing: border-box;
+  color: $color-primary;
+}
+
+body {
+  background-color: $color-bg;
+}
+
+html {
+  padding: .25rem .5rem;
+}
+
+ul {
+  list-style-type: "—";
+  padding-left: 1rem;
+  margin: 0;
+  text-align: left;
+  li {
+    padding-left: .5rem;
+  }
+}
+
+p {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+// --- Layout ---
+#page-layout {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row-reverse;
+
+  .half {
+    width: 50%;
+    padding: .5rem 0;
+    &:nth-child(1) {
+      padding-left: .5rem;
+    }
+    &:nth-child(2) {
+      padding-right: .5rem;
+    }
+  }
+
+  @media only screen and (max-width: 1023px) {
+    flex-direction: row;
+
+    .half {
+      width: 100%;
+      &:nth-child(1), &:nth-child(2) {
+        padding-left: 0;
+        padding-right: 0;
+      }
+    }
+  }
+}
+
+
+
+// --- Fonts ---
+// - Body -
+body {
+  font-family: $font-body;
+  font-weight: 500;
+}
+
+.text {
+  max-width: $width-text;
+  text-align: justify;
+  font-size: 1.125rem;
+  line-height: 1.5;
+  padding-bottom: 2rem;
+}
+
+.has-text-align-left {
+  text-align: left;
+}
+
+h1, h2, h3, h4, h5, h6,
+header,
+.nav-el {
+  font-family: $font-heading;
+}

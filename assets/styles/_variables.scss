@@ -1,0 +1,111 @@
+
+$color-bg: black;
+$color-primary: white;
+$width-text: 55rem;
+$width-main-img: 30rem;
+
+// EB Garamond
+@font-face {
+  font-family: 'EB Garamond';
+  src: url('assets/fonts/EBGaramond/EBGaramond-Regular.eot');
+  src: local('EB Garamond Regular'), local('EBGaramond-Regular'),
+  url('assets/fonts/EBGaramond/EBGaramond-Regular.eot?#iefix') format('embedded-opentype'),
+  url('assets/fonts/EBGaramond/EBGaramond-Regular.woff2') format('woff2'),
+  url('assets/fonts/EBGaramond/EBGaramond-Regular.woff') format('woff'),
+  url('assets/fonts/EBGaramond/EBGaramond-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'EB Garamond';
+  src: url('assets/fonts/EBGaramond/EBGaramond-Italic.eot');
+  src: local('EB Garamond Italic'), local('EBGaramond-Italic'),
+  url('assets/fonts/EBGaramond/EBGaramond-Italic.eot?#iefix') format('embedded-opentype'),
+  url('assets/fonts/EBGaramond/EBGaramond-Italic.woff2') format('woff2'),
+  url('assets/fonts/EBGaramond/EBGaramond-Italic.woff') format('woff'),
+  url('assets/fonts/EBGaramond/EBGaramond-Italic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+//@font-face {
+//  font-family: 'EB Garamond';
+//  src: url('assets/fonts/EBGaramond/EBGaramond-Medium.eot');
+//  src: local('EB Garamond Medium'), local('EBGaramond-Medium'),
+//  url('assets/fonts/EBGaramond/EBGaramond-Medium.eot?#iefix') format('embedded-opentype'),
+//  url('assets/fonts/EBGaramond/EBGaramond-Medium.woff2') format('woff2'),
+//  url('assets/fonts/EBGaramond/EBGaramond-Medium.woff') format('woff'),
+//  url('assets/fonts/EBGaramond/EBGaramond-Medium.ttf') format('truetype');
+//  font-weight: 300;
+//  font-style: normal;
+//}
+
+//@font-face {
+//  font-family: 'EB Garamond';
+//  src: url('assets/fonts/EBGaramond/EBGaramond-MediumItalic.eot');
+//  src: local('EB Garamond Medium Italic'), local('EBGaramond-MediumItalic'),
+//  url('assets/fonts/EBGaramond/EBGaramond-MediumItalic.eot?#iefix') format('embedded-opentype'),
+//  url('assets/fonts/EBGaramond/EBGaramond-MediumItalic.woff2') format('woff2'),
+//  url('assets/fonts/EBGaramond/EBGaramond-MediumItalic.woff') format('woff'),
+//  url('assets/fonts/EBGaramond/EBGaramond-MediumItalic.ttf') format('truetype');
+//  font-weight: 300;
+//  font-style: italic;
+//}
+
+@font-face {
+  font-family: 'EB Garamond';
+  src: url('assets/fonts/EBGaramond/EBGaramond-Bold.eot');
+  src: local('EB Garamond Bold'), local('EBGaramond-Bold'),
+  url('assets/fonts/EBGaramond/EBGaramond-Bold.eot?#iefix') format('embedded-opentype'),
+  url('assets/fonts/EBGaramond/EBGaramond-Bold.woff2') format('woff2'),
+  url('assets/fonts/EBGaramond/EBGaramond-Bold.woff') format('woff'),
+  url('assets/fonts/EBGaramond/EBGaramond-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'EB Garamond';
+  src: url('assets/fonts/EBGaramond/EBGaramond-BoldItalic.eot');
+  src: local('EB Garamond Bold Italic'), local('EBGaramond-BoldItalic'),
+  url('assets/fonts/EBGaramond/EBGaramond-BoldItalic.eot?#iefix') format('embedded-opentype'),
+  url('assets/fonts/EBGaramond/EBGaramond-BoldItalic.woff2') format('woff2'),
+  url('assets/fonts/EBGaramond/EBGaramond-BoldItalic.woff') format('woff'),
+  url('assets/fonts/EBGaramond/EBGaramond-BoldItalic.ttf') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+
+// GTA
+@font-face {
+  font-family: 'GT-America';
+  src: url("assets/fonts/GTA/GT-America-Standard-Regular.eot");
+  src: url("assets/fonts/GTA/GT-America-Standard-Regular.eot?#iefix") format("embedded-opentype"), url("assets/fonts/GTA/GT-America-Standard-Regular.woff") format("woff"), url("assets/fonts/GTA/GT-America-Standard-Regular.woff2") format("woff2"), url("assets/fonts/GTA/GT-America-Standard-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'GT-America';
+  src: url("assets/fonts/GTA/GT-America-Standard-Regular-Italic.eot");
+  src: url("assets/fonts/GTA/GT-America-Standard-Regular-Italic.eot?#iefix") format("embedded-opentype"), url("assets/fonts/GTA/GT-America-Standard-Regular-Italic.woff") format("woff"), url("assets/fonts/GTA/GT-America-Standard-Regular-Italic.woff2") format("woff2"), url("assets/fonts/GTA/GT-America-Standard-Regular-Italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'GT-America';
+  src: url("assets/fonts/GTA/GT-America-Standard-Bold.eot");
+  src: url("assets/fonts/GTA/GT-America-Standard-Bold.eot?#iefix") format("embedded-opentype"), url("assets/fonts/GTA/GT-America-Standard-Bold.woff") format("woff"), url("assets/fonts/GTA/GT-America-Standard-Bold.woff2") format("woff2"), url("assets/fonts/GTA/GT-America-Standard-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'GT-America';
+  src: url("assets/fonts/GTA/GT-America-Standard-Bold-Italic.eot");
+  src: url("assets/fonts/GTA/GT-America-Standard-Bold-Italic.eot?#iefix") format("embedded-opentype"), url("assets/fonts/GTA/GT-America-Standard-Bold-Italic.woff") format("woff"), url("assets/fonts/GTA/GT-America-Standard-Bold-Italic.woff2") format("woff2"), url("assets/fonts/GTA/GT-America-Standard-Bold-Italic.ttf") format("truetype");
+  font-weight: bold;
+  font-style: italic; }
+
+$font-heading: 'GT-America', 'Helvetica Neue', 'Helvetica', Arial, sans-serif;
+$font-body: 'EB Garamond', serif;
