@@ -6,7 +6,10 @@ const { data: page } = await useAsyncData(route.path, () => {
 </script>
 
 <template>
-<pre>{{page}}</pre>
+	<div>
+		<pre>{{page}}</pre>
+		<!-- <ContentRenderer :value="project" /> -->
+	</div>
 </template>
 
 <style scoped lang="scss">

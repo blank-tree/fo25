@@ -4,14 +4,10 @@ export default defineContentConfig({
     collections: {
         content: defineCollection({
             type: 'page',
-            source: '*.md'
-        }),
-        project: defineCollection({
-            type: 'page',
-            source: 'projects/*.md',
+            source: '*.md',
             schema: z.object({
+                project: z.boolean(),
                 name: z.string(),
-                slug: z.string(),
                 date: z.string(),
                 video: z.string(),
                 gallery: z.array(z.string()),

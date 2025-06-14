@@ -14,7 +14,7 @@
 				</div>
 			</div>
 
-			<!--
+
 			<pre>
 				{{projects}}
 			</pre>
@@ -22,13 +22,18 @@
 				:projects="projects"
 				class="half"
 			/>
-			-->
 		</div>
 	</div>
 </template>
 
 <script lang="ts" setup>
-const { data: home } = await useAsyncData(() => queryCollection('content').path('/').first())
+const { data: home } = await useAsyncData(() => queryCollection('content')
+	.path('/')
+	.first())
+const { data: projects } = await useAsyncData(() => queryCollection('content')
+	.where('project', '=', true)
+	.order('date', 'DESC')
+	.all())
 
 </script>
 
