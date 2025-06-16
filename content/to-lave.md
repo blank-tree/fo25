@@ -1,0 +1,11 @@
+---
+name: "to lave"
+slug: "to-lave"
+project: true
+date: "2021-03-13"
+video: ''
+gallery: ["img/projects/to-lave/DSC0216.jpg","img/projects/to-lave/DSC0178.jpg","img/projects/to-lave/DSC0173.jpg","img/projects/to-lave/DSC0830.jpg","img/projects/to-lave/DSC0806.jpg","img/projects/to-lave/DSC0398.jpg","img/projects/to-lave/DSC0397.jpg"]
+links: false
+exhibitions: [{"text":"LETTERS – Material","time":"01.–14.03.2021 ","link":"https://materialismus.ch/events/letters"},{"text":"Distributed Transactions, Löwenbräu Zürich","time":"15.–22.06.21","link":"https://blog.trans.zhdk.ch/jahresausstellung2021/#08"},{"text":"15. Jungkunst, Winterthur","time":"28.–31.10.2021","link":"https://www.jungkunst.ch/fernando-obieta"}]
+---
+Teil der Serie «LETTERS». Die dritte Arbeit «to lave» beschäftigt sich mit der Zeitlichkeit und der Abfolge und Abstraktion von Text-Messaging-Unterhaltungen. Obwohl innerhalb dieser Nachrichten mehrheitlich die Sprache der direkten Rede verwendet wird, fehlt dabei eines ihrer wichtigen Merkmale: die Unmittelbarkeit. Es fehlt in der Darstellung und der Bedienung die zeitliche Relation der Nachrichten – bis auf die Zeitstempel und die Abfolge. In der direkten Rede haben Pausen eine Gewichtung und werden in dieser Arbeit abgebildet. Der Drucker druckt kontinuierlich beide Seiten einer SMS-Unterhaltung auf Band. Die eine Person links, die andere Person rechts – wie wir uns das gewohnt sind von Text-Messaging-Apps auf Smartphones. Was in dieser Arbeit materiell sichtbar wird, sind die Pausen zwischen den einzelnen Nachrichten. Alle 225 Sekunden – 16x pro Stunde – wird eine Zeile auf das Band gedruckt. Diese bleibt leer, wenn in diesem Zeitraum keine Nachricht zwischen den beiden Personen versandt wurde. Ansonsten wird die Nachricht gedruckt. Dabei entstehen grosse Abstände zwischen den einzelnen Nachrichten und damit eine zeitlich realistischere Darstellung einer Unterhaltung. Die Unterhaltung selbst erstreckt sich über die ganze Ausstellungsdauer. Die abgedruckte, reale Unterhaltung ist die einer frischen Beziehung, über die Dauer von zwei Wochen.

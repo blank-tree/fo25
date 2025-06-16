@@ -1,0 +1,16 @@
+---
+name: "HERE / HEAR / WAVE"
+slug: "here-hear-wave"
+project: true
+date: "2017-07-26"
+video: ''
+gallery: ["img/projects/here-hear-wave/wave-1.jpg","img/projects/here-hear-wave/wave-5.jpg","img/projects/here-hear-wave/wave-2.jpg","img/projects/here-hear-wave/wave-4.jpg","img/projects/here-hear-wave/HEAR-08.jpg","img/projects/here-hear-wave/HEAR-04.jpg","img/projects/here-hear-wave/HEAR-05.jpg","img/projects/here-hear-wave/HEAR-01.jpg","img/projects/here-hear-wave/HEAR-02.jpg","img/projects/here-hear-wave/HEAR-07.jpg","img/projects/here-hear-wave/here.jpg","img/projects/here-hear-wave/wave.jpg","img/projects/here-hear-wave/hear-1.jpg","img/projects/here-hear-wave/here_c.jpg"]
+links: [{"name":"Gregor Vogel","url":"https://www.gregor-vogel.com/"},{"name":"HERE","url":"https://obieta-vogel.bandcamp.com/album/here"},{"name":"HEAR","url":"https://obieta-vogel.bandcamp.com/album/hear"},{"name":"WAVE","url":"https://obieta-vogel.bandcamp.com/album/wave"}]
+exhibitions: [{"text":"WAVE, Leere Kirche Bülach","time":"06.09.2018","link":""},{"text":"HEAR, Toni-Areal","time":"11.01.2018","link":""},{"text":"HERE, Toni-Areal","time":"26.06.2017","link":""}]
+---
+Exploring the overlap between concert, performance and sound installation. What constitutes as music? What constitutes as a concert? What is the role of a performer? What is the role of an attendee?  
+Since 2017 Fernando Obieta and Gregor Vogel have been working together on a series of performances concerning with the preceding questions. Each time they have made use of a setup featuring a patch that was built using the programming language Pure Data. A computer is given the ability to compose randomly synthesized tracks consisting of a randomly generated number of acts. Within a few boundaries given by the architects of the patch – the two artists – the computer is able to define parameters like pitch, tempo and length of the individual tones and acts.  
+These sounds are distributed to a variable number of speakers placed in the room. The two collaborating artists influence the sounds through effect pedals – commonly used by musicians – placed in between computer and the individual speakers. The effects are distortion, modulation effects, delays, reverbs and more. The performing artists and the computer play together in a session, during which neither of the two parties has full power over the other.  
+Not only is not every outlet of the patch active at any given moment, but also does the sound that is played have an effect on how the pedals function. On the other hand, are the performers able to delay or diminish certain activities of the sounds and can thus take influence on the narrative structure. The balance of forces between the program and the artists is over when they decide to end the performance.  
+In January 2018 the performance was staged for the second time, this time under the name HEAR, in front of a live audience at a public venue. In an accompanying text the audience was motivated to interact with the performers and talk to them. When none of the two artists were altering the settings on the effect pedals, the setup operated as an autonomous sound installation.  
+The whole concert including the voices and sounds emitted by the audience was recorded.  

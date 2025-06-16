@@ -10,7 +10,7 @@ rawData.forEach(e => {
 		"text": e.content.rendered,
 		"video": e.acf.video,
 		"gallery": e.acf.gallery.map(img => {
-			return img.url;
+			return unescape(img.url);
 		}),
 		"links": e.acf.links,
 		"exhibitions": e.acf.exhibitions
@@ -37,19 +37,12 @@ img: post.acf.gallery[0].url
 */
 
 const fs = require('node:fs');
-const fetch = require('node-fetch');
-
-async function download(url, filePath) {
-  const response = await fetch(url);
-  const buffer = await response.buffer();
-  fs.writeFile(filePath, buffer, () => 
-    console.log(`downloaded ${filePath}`));
-}
+const https = require('https');
 
 
 const imgPath = 'img/projects';
 
-async function writeTheFiles() {
+function writeTheFiles() {
 	newDB.forEach(e => {
 		const projectImgPath = `${imgPath}/${e.slug}`;
 
@@ -61,36 +54,52 @@ async function writeTheFiles() {
 		  console.error(err);
 		}
 
-		for(let i = 0; i++; i < e.gallery.length) {
+		for(let i = 0; i < e.gallery.length; i++) {
 			let fileName = e.gallery[i].substring(e.gallery[i].lastIndexOf('/') + 1, e.gallery[i].length);
-			let filePath = `${imgPath}/${e.slug}/${fileName}`;
+			let filePath = `${projectImgPath}/${fileName}`;
+			/*
+			const file = fs.createWriteStream(filePath);
+			https.get(e.gallery[i], (response) => {
+			    response.pipe(file);
+			    file.on('finish', () => {
+			        file.close(() => {
+			            console.log(`downloaded ${fileName}`);
+			        });
+			    });
+			}).on('error', (err) => {
+			    fs.unlink(destination, () => {
+			        console.error('Error downloading file:', err);
+			    });
+			});
+			*/
 
-			await download(e.gallery[i], filePath);
-			console.log(`downloaded ${filename}`);
+
+			
 			e.gallery[i] = filePath;
-
+			
 		}
 
-		const markdown = `
-		---
-		name: "${e.name}"
-		slug: "${e.slug}"
-		project: true
-		date: "${e.date.substring(0, 10)}"
-		video: "${e.video}"
-		gallery: ${JSON.stringify(e.gallery)}
-		links: ${JSON.stringify(e.links)}
-		exhibitions: ${JSON.stringify(e.exhibitions)}
-		---
-		`;
+const markdown = `---
+name: "${e.name}"
+slug: "${e.slug}"
+project: true
+date: "${e.date.substring(0, 10)}"
+video: '${e.video}'
+gallery: ${JSON.stringify(e.gallery)}
+links: ${JSON.stringify(e.links)}
+exhibitions: ${JSON.stringify(e.exhibitions)}
+---
+`;
+
 		fs.writeFile(`content/${e.slug}.md`, markdown, err => {
 		  if (err) {
 		    console.error(err);
 		  } else {
 		    console.log(`file written: ${e.slug}.md`);
 		  }
-	});
-})
+
+		});
+	})
 }
 
 writeTheFiles();

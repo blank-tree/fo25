@@ -1,15 +1,15 @@
 ---
-name: i dropped the metal ball on the glass table and it broke. what is it?
-slug: i-dropped-the-metal-ball-on-the-glass-table-and-it-broke-what-is-it
+name: "i dropped the metal ball on the glass table and it broke. what is it?"
+slug: "i-dropped-the-metal-ball-on-the-glass-table-and-it-broke-what-is-it"
 project: true
-date: '2024-09-27'
-video:
-gallery: [ "https://be.fernando-obieta.com/wp-content/uploads/2024/10/2024-metal_ball.jpg", "https://be.fernando-obieta.com/wp-content/uploads/2024/10/mb-v3-1.jpg", "https://be.fernando-obieta.com/wp-content/uploads/2024/10/mb-v3-5.jpg", "https://be.fernando-obieta.com/wp-content/uploads/2024/10/mb-v3-9.jpg" ]
-links:
-exhibitions: [ { "text": "HackThePromise Festival Basel","time": "27.–29.09.2024","link": "https://hackthepromise.org/" } ]
+date: "2024-09-27"
+video: ''
+gallery: ["img/projects/i-dropped-the-metal-ball-on-the-glass-table-and-it-broke-what-is-it/2024-metal_ball.jpg","img/projects/i-dropped-the-metal-ball-on-the-glass-table-and-it-broke-what-is-it/mb-v3-1.jpg","img/projects/i-dropped-the-metal-ball-on-the-glass-table-and-it-broke-what-is-it/mb-v3-5.jpg","img/projects/i-dropped-the-metal-ball-on-the-glass-table-and-it-broke-what-is-it/mb-v3-9.jpg"]
+links: false
+exhibitions: [{"text":"HackThePromise Festival Basel","time":"27.–29.09.2024","link":"https://hackthepromise.org/"}]
 ---
-A machine can never know how to answer this question. It can try to provide the most probable answer through statistics,
-but never based on the meanings of the sentence. When applied to social structures, social constellations, identity
-categories, power structures and dependencies, these decisions weigh heavily. Hidden behind the machines are
-manifestations of the values of their creators, which could not be more opaque for the users. In collaboration with
-Cynthia Schemidt.
+Die vorliegende Arbeit von Fernando Obieta und Cynthia Schemidt befasst sich mit den Themen Kategorienbildung und künstlicher Intelligenz bzw. maschinellem Lernen.  
+Maschinen können nicht im menschlichen Sinne «denken». Maschinen sind automatisierte Gebilde, die ausserordentlich schnell mit logischen und mathematischen Problemstellungen umgehen können. Sie denken in Relationen, Systemen und Schemata. Gerne wird in die Maschinen eine Rationalität und Neutralität hinein projiziert, die in diesem Sinne nicht existiert: Appliziert auf menschliche Sprache, können Maschinen einzig und allein die Semantik einer Sprache «verstehen»: die Relation zwischen Wörtern innerhalb eines oder mehreren Sätzen. Die Bedeutung der einzelnen Wörter oder eines Satzes kann eine Maschine nicht verstehen (siehe «On the Dangers of Stochastic Parrots» von Bender, et al. (2021)). Dies bedeutet wiederum, dass sämtliche Bedeutungsebenen, Perspektiven und daraus resultierenden Kategorien stets von Menschen vorgenommen werden. Dabei kann es sich um die Entwickler:innen oder auch die Benutzer:innen von Maschinen handeln. Insbesondere die Ideologien und Weltvorstellungen der Entwickler:innen werden durch die Benutzung ihrer Maschinen stets reproduziert und affirmiert (bias).  
+«i dropped the metal ball on the glass table and it broke. what is it?» Eine Maschine kann niemals wissen, wie sie diese Frage beantworten könnte. Sie kann versuchen, die wahrscheinlichste Antwort durch Statistik zu liefern, aber niemals gestützt auf die Bedeutungen der Worte «fallen», «Metall», «Ball», «Glass», «Tisch» und «brechen». Dies mag mitunter banal klingen, aber appliziert auf gesellschaftliche Strukturen, soziale Konstellationen, Identitätskategorien, Machtgefüge und Abhängigkeiten, wiegen diese Entscheidungen schwer. Hinter den Maschinen verstecken sich Manifestationen der Wertvorstellungen ihrer Erschaffer:innen, die für die Benutzer:innen nicht undurchsichtiger sein könnten.  
+Die neunteilige fotografische Serie zeigt eine Person, die androgyn gelesen werden kann, wie sie eine Metallkugel auf einen Glastisch fallen lässt. Die Bilder sind eine Abfolge der Bewegung der Metallkugel. Auf dem ersten Bild fast noch in den Händen der Person, danach auf dem Weg nach unten und auf dem letzten Bild knapp über dem Glastisch. Menschen sehen diese Bilderabfolge und können sich intuitiv eine klare Vorstellung des nächsten Bildes machen: Ein zersplitterter Glastisch und die Metallkugel auf dem Boden. Die Bilder sind einem 3x3 Raster angeordnet, was an den Bildertest von «reCAPTCHA» von Google und der dabei gestellten Frage «I’m not a robot» erinnert, bei der Busse, Autos, Ampeln u.Ä. identifiziert werden müssen und die Benutzer:innen eigentlich Arbeit leisten, um die Algorithmen von Google zu verbessern. Die Umgebung auf den Bildern erinnert an ein Wartezimmer. Das Wartezimmer beschreibt einen Ort dazwischen, in dem Bedeutungen kollabieren und Kategorien kontingent werden: Geschlechtsidentität, Aufenthaltsstatus, persönliche Verfassung, etc.  
+So verhandelt das Werk die Praxis des Kategorisierens von Genderperformances und -identitäten. Wenn Maschinen automatisiert eine Kategorisierung vornehmen, tun sie dies nicht neutral oder objektiv, sondern basierend auf den Perspektiven ihrer Entwickler:innen, sei dies biased oder dezidiert so implementiert, oder durch die Auswahl von Datensätzen zum Training von maschinellem Lernen. Dabei unterstreicht die Arbeit, dass die Genderperformance einer Person nicht unbedingt definitive Rückschlüsse auf die Genderidentität der Person zulässt.  

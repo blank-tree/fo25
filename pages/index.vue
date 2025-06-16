@@ -1,5 +1,10 @@
 <template>
 	<div id="page-index">
+		<Head>
+			<Title>Fernando Obieta</Title>
+			<Meta name="description"
+			      :content="`Fernando Obieta is a conceptual media artist and artistic researcher`"/>
+		</Head>
 		<div id="page-layout">
 			<div class="half">
 				<div class="text">
@@ -14,10 +19,6 @@
 				</div>
 			</div>
 
-
-			<pre>
-				{{projects}}
-			</pre>
 			<ProjectsList
 				:projects="projects"
 				class="half"

@@ -1,0 +1,11 @@
+---
+name: "Circular Instant"
+slug: "circular-instant"
+project: true
+date: "2019-10-17"
+video: ''
+gallery: ["img/projects/circular-instant/ci1.jpg","img/projects/circular-instant/ci4.jpg","img/projects/circular-instant/ci2.jpg"]
+links: [{"name":"Artikel 041","url":"https://www.null41.ch/blog/eine-friedliche-rueckeroberung"},{"name":"Artikel Luzerner Zeitung","url":"https://www.luzernerzeitung.ch/kultur/touristen-und-einheimische-sehen-den-lowen-unterschiedlich-ld.1161455"}]
+exhibitions: [{"text":"L21 – Kunsthalle Luzern","time":"17.10 – 22.12.2019","link":"https://www.loewendenkmal21.ch/projekt/we-are-the-lion/"}]
+---
+Obieta arbeitet in seinem Ausstellungsbeitrag bewusst mit der sozialen Plattform Instagram. Sie ist dafür bekannt, dass die meisten Nutzer und Nutzerinnen sich deren Privatsphäreneinstellungen nicht zunutze machen. Ihre Bilder sind somit öffentlich zugänglich. Der Künstler greift auf eine API (Application Programming Interface) zu, eine Schnittstelle, die Instagram bereitstellt, um die neusten Bilder mit spezifischen Hashtags und örtlichen Angaben abzugreifen. Die so gewonnene Ausbeute macht Obieta mittels einer interaktiven Installation in der Ausstellung zugänglich. Die Wahl der Bilder erfolgt ausschliesslich via Algorithmen. Es gibt keinen kuratorischen Eingriff, denn die Authentizität derselben soll in den Fokus gerückt werden. Auch dienen die Bilder weder einer besonderen Kritik noch marketingtechnischer Vorführung. Vielmehr sollen sie durch ihre Neukontextualisierung im Kunstraum und mittels der hier blossgelegten unterschiedlichen visuellen Beschaffenheiten von der Plattform selbst abgegrenzt werden. Kurzum: Sie ermöglichen einen anderen Blick auf die Erfahrungen dieser Menschen. Die technische Umsetzung im Ausstellungsraum kommt als Doppelprojektion daher: Ein Bild des Löwendenkmals einheimischer Urheberschaft und eines mit vermutetem touristischem Background sind parallel zu sehen. Die Bildersuche im WWW und die Steuerung erfolgen einerseits durch einen vom Künstler programmierten Algorithmus, andererseits durch das Publikum, bzw. den Geräuschpegel im Ausstellungsraum; er steuert das Tempo der Bildabfolgen und zugleich einen leeren, ständig im Kreis laufenden Karusselldiaprojektor, hörbarer Taktgeber aus vergangenen analogen Zeiten.

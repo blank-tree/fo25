@@ -6,7 +6,17 @@ const { data: page } = await useAsyncData(route.path, () => {
 </script>
 
 <template>
-<pre>{{page}}</pre>
+	<div id="page-about">
+		<Head>
+			<Title>About Fernando Obieta</Title>
+			<Meta name="description" :content="`Fernando Obieta is a conceptual media artist and artistic researcher.`"/>
+		</Head>
+		<div id="page-layout">
+			<div class="half">
+				<ContentRenderer :value="page" class="text"/>
+			</div>
+		</div>
+	</div>
 </template>
 
 <style scoped lang="scss">
