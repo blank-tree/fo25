@@ -12,7 +12,7 @@
 		</div>
 		<footer>
 			<p
-				v-html="`&copy; Fernando Obieta 2025`"
+				v-html="`&copy; Fernando Obieta ${new Date().getFullYear()}`"
 			/>
 		</footer>
 		<!-- We're all just wandering around in the dark -->
