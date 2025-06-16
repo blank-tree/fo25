@@ -28,9 +28,10 @@ export default defineNuxtConfig({
         url: 'https://fernando-obieta.com',
         name: 'Fernando Obieta'
     },
-    router: {
-        options: {
-            strict: true
+    ssr: false,
+    content: {
+        experimental: {
+            clientDB: true
         }
     },
     compatibilityDate: '2025-05-15',
