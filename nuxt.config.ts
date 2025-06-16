@@ -28,12 +28,12 @@ export default defineNuxtConfig({
         url: 'https://fernando-obieta.com',
         name: 'Fernando Obieta'
     },
-    // ssr: false,
-    content: {
-        experimental: {
-            clientDB: true
-        }
-    },
+    ssr: false,
+    // content: {
+    //     experimental: {
+    //         clientDB: true
+    //     }
+    // },
     compatibilityDate: '2025-05-15',
     devtools: {enabled: false},
     modules: [
