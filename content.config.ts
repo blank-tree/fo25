@@ -8,6 +8,7 @@ export default defineContentConfig({
             schema: z.object({
                 project: z.boolean(),
                 name: z.string(),
+                slug: z.string(),
                 date: z.string(),
                 video: z.string(),
                 gallery: z.array(z.string()),

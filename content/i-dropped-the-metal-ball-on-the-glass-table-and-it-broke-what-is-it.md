@@ -1,5 +1,6 @@
 ---
 name: i dropped the metal ball on the glass table and it broke. what is it?
+slug: i-dropped-the-metal-ball-on-the-glass-table-and-it-broke-what-is-it
 project: true
 date: '2024-09-27'
 video:
@@ -7,7 +8,6 @@ gallery: [ "https://be.fernando-obieta.com/wp-content/uploads/2024/10/2024-metal
 links:
 exhibitions: [ { "text": "HackThePromise Festival Basel","time": "27.–29.09.2024","link": "https://hackthepromise.org/" } ]
 ---
-
 A machine can never know how to answer this question. It can try to provide the most probable answer through statistics,
 but never based on the meanings of the sentence. When applied to social structures, social constellations, identity
 categories, power structures and dependencies, these decisions weigh heavily. Hidden behind the machines are
