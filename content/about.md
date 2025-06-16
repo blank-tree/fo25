@@ -2,6 +2,7 @@ Fernando Obieta (he/him, *1990) is a conceptual media artist and artistic resear
 
 Lecturer at the [Lucerne School of Design, Film and Art](https://www.hslu.ch/de-ch/design-film-kunst/). Board member of [intersections](https://intersections.ch/) – for digitality, diversity and inclusivity. Founder and former president of [VoteLog](https://votelog.ch/) – contextualise the representative part of Swiss democracy. Initiator and collective member of the now-defunct [so-da.space](https://so-da.space.fernando-obieta.com/) offsite space in Zürich for cultural actors and artists.
 
+::left-align
 Doctor of Philosophy in *Media Theory* (ongoing)  
 Master of Arts ZHdK in *Transdisciplinary Studies in the Arts*  
 Bachelor of Arts ZHdK in Design with a Specialisation in *Interaction Design*  
@@ -75,3 +76,4 @@ This website doesn’t use trackers or cookies.
 2024 – Dominic Oppliger: [unpublished children’s novel].  
 2023 – Gregor Vogel: [unpublished novel].  
 2023 – Dominic Oppliger: giftland [novel]. Zürich: Der gesunde Menschenversand.  
+::

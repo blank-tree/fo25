@@ -28,7 +28,7 @@ export default defineNuxtConfig({
         url: 'https://fernando-obieta.com',
         name: 'Fernando Obieta'
     },
-    ssr: false,
+    // ssr: false,
     content: {
         experimental: {
             clientDB: true
