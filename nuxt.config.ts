@@ -28,6 +28,11 @@ export default defineNuxtConfig({
         url: 'https://fernando-obieta.com',
         name: 'Fernando Obieta'
     },
+    router: {
+        options: {
+            strict: true
+        }
+    },
     compatibilityDate: '2025-05-15',
     devtools: {enabled: false},
     modules: [
