@@ -94,7 +94,10 @@ const {data: project} = await useAsyncData(route.path, () => {
 				</div>
 			</div>
 		</div>
-		<Gallery :gallery="project.gallery"/>
+		<Gallery
+			v-if="project.gallery.length > 1"
+			:gallery="project.gallery"
+		/>
 	</div>
 </template>
 
