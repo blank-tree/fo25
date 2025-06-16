@@ -1,30 +1,39 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  css: [
-    '@/assets/styles/main.scss'
-  ],
-  vite: {
-    css: {
-      preprocessorOptions: {
-        scss: {
-          additionalData: '@use "~/assets/styles/_variables.scss" as *;',
+    css: [
+        '@/assets/styles/main.scss'
+    ],
+    vite: {
+        css: {
+            preprocessorOptions: {
+                scss: {
+                    additionalData: '@use "~/assets/styles/_variables.scss" as *;',
+                }
+            }
         }
-      }
-    }
-  },
-  app: {
-    head: {
-      title: 'Fernando Obieta',
-      meta: [
-        {
-          name: 'viewport',
-          content: 'width=device-width, initial-scale=1'
+    },
+    app: {
+        head: {
+            title: 'Fernando Obieta',
+            meta: [
+                {
+                    name: 'viewport',
+                    content: 'width=device-width, initial-scale=1'
+                }
+            ],
+            link: [],
         }
-      ],
-      link: [],
-    }
-  },
-  compatibilityDate: '2025-05-15',
-  devtools: { enabled: true },
-  modules: ['@nuxt/content', '@nuxt/fonts']
+    },
+    site: {
+        url: 'https://fernando-obieta.com',
+        name: 'Fernando Obieta'
+    },
+    compatibilityDate: '2025-05-15',
+    devtools: {enabled: false},
+    modules: [
+        '@nuxtjs/robots',
+        '@nuxtjs/sitemap',
+        '@nuxt/content',
+        '@nuxt/fonts'
+    ]
 })
