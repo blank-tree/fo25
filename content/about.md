@@ -27,7 +27,7 @@ This website doesn’t use trackers or cookies.
 2019 – blinded by the light – in the public space of the city of Bülach  
 2017 – for your eyes only – Kaskadenhalle, Toni-Areal, Zürich  
 
-**selected group exhibitions**
+**selected group exhibitions**  
 2025 – i dropped the metal ball on the glass table and it broke. what is it? – Ars Electronica Festival, Linz AT  
 2024 – i dropped the metal ball on the glass table and it broke. what is it? – HackThePromise Festival, Basel  
 2023 – SUGGESTING, – on public posters in Winterthur – by Kunstkasten  
@@ -50,7 +50,7 @@ This website doesn’t use trackers or cookies.
 2017 – Vorlesen! – Lichtcampus, Hildesheim  
 2016 – Holles Welt – Zauberwald, Lenzerheide  
 
-**selected performances**
+**selected performances**  
 2023 – trifurcate – undisclosed location  
 2022 – trifurcate – Kraftfeld, Winterthur  
 2019 – trifurcate – Lange Nacht der zeitgenössischen Musik, Toni-Areal, Zürich  
@@ -71,9 +71,9 @@ This website doesn’t use trackers or cookies.
 2019 – verloren im www – Kunsthalle, Luzern  
 
 **selected editing**  
-2025 – Silvan Jeger: [unpublished novel].  
-2024–2025 – Marc Herter: [unpublished novel].  
-2024 – Dominic Oppliger: [unpublished children’s novel].  
-2023 – Gregor Vogel: [unpublished novel].  
-2023 – Dominic Oppliger: giftland [novel]. Zürich: Der gesunde Menschenversand.  
+2025 – Silvan Jeger: \[unpublished novel\].  
+2024–2025 – Marc Herter: \[unpublished novel\].  
+2024 – Dominic Oppliger: \[unpublished children’s novel\].  
+2023 – Gregor Vogel: \[unpublished novel\].  
+2023 – Dominic Oppliger: giftland \[novel\]. Zürich: Der gesunde Menschenversand.  
 ::
