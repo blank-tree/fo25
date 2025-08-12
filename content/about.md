@@ -29,6 +29,7 @@ This website doesn’t use trackers or cookies.
 
 **selected group exhibitions**  
 2025 – i dropped the metal ball on the glass table and it broke. what is it? – Ars Electronica Festival, Linz AT  
+2025 – Anna's room – Visarte Einsichten 2025 at Kupper Modern, Zürich
 2024 – i dropped the metal ball on the glass table and it broke. what is it? – HackThePromise Festival, Basel  
 2023 – SUGGESTING, – on public posters in Winterthur – by Kunstkasten  
 2022 – SUGGESTING, – WHAT’S COOKING? (on resources) at Villa Sträuli, Winterthur  

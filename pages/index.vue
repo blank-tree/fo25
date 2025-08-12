@@ -13,6 +13,7 @@
 						<b>currently / upcoming</b>
 					</p>
 					<ul>
+						<li><i>Anna's room</i> – 22.08.–06.09.2025 Visarte Einsichten 2025 at Kupper Modern Zürich</li>
 						<li><i>i dropped the metal ball on the glass table and it broke. what is it?</i> in collaboration with Cynthia Schemidt – 03.–07.09.2025 at Ars Electronica Festival Linz AT
 						</li>
 					</ul>
