@@ -26,6 +26,14 @@
 	#slot {
 		min-height: calc(100vh - 7.5rem);
 	}
+
+	h1, h2, h3, h4, h5, h6, p, span, li, i, b, em, a, strong, img {
+		&::selection {
+			background: black;
+			color: #e73c7e;
+			text-shadow: 0 0 5px #e73c7e, 0 0 10px #e73c7e;
+		}
+	}
 }
 
 header {
