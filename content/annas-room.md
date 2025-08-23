@@ -1,0 +1,12 @@
+---
+name: "Anna's room"
+slug: "annas-room"
+project: true
+date: "2025-08-22"
+video: ''
+gallery: ["img/projects/annas-room/2025_08-Annas_room-0.jpg","img/projects/annas-room/2025_08-Annas_room-1.jpg","img/projects/annas-room/2025_08-Annas_room-2.jpg","img/projects/annas-room/2025_08-Annas_room-3.jpg"]
+exhibitions: [{"text":"Visarte Einsichten 2025 at Kupper Modern, Zürich","time":"22.08.–06.09.2025","link":"https://visarte-zuerich.ch/news/jahresausstellung-einsichten-2025-visarte-zurich-friends-kopie"}]
+---
+Diese Videoarbeit zeigt das Zimmer von Anna in einer Wohngemeinschaft. Die Einstellungen, die von einem Stativ aus gefilmt wurden, zeigen die verschiedenen Gegenstände, die Möblierung und die Habseligkeiten von Anna. Die Person, die die Kamera führt, ist lediglich an den einzelnen Einstellungen erkennbar, die Bewegungen auf den Aufnahmen sind minimal. Das Video wird in der Ausstellung in einer Dauerschleife abgespielt. Die einzige Unterbrechung am Ende des Videos ist ein Text in weisser Schrift auf schwarzem Hintergrund der für einige Sekunden angezeigt wird: «Anna is dead». Bei der Wiederholung verändert sich die Bedeutungsebene des gezeigten Materials schlagartig. Ein offen aufgeschlagenes Buch wandelt sich von «Wer auch immer hier lebt, ist dabei, dieses Buch zu lesen» zu «Anna wird nie wissen, wie die Geschichte ausgeht». Die Zeichen werden wieder zu Spuren. Diese Form der Montage ist im Film als Kuleschow-Effekt bekannt. Diese Arbeit treibt diesen Gedanken weiter und reflektiert, welche Informationen im Datenmaterial der Videoaufnahmen enthalten sind und welche nicht.
+
+In der zunehmend digitalisierten Welt des frühen 21. Jahrhunderts hinterlassen Menschen in ihrem Alltag keine Spuren mehr, da die verschiedenen technischen Hilfsmittel diese in Zeichen verwandeln, die von verschiedenen Akteur:innen ausgewertet werden. Diese Daten werden im besten Fall für Werbezwecke und im schlechtesten Fall zur Überwachung verwendet. Die Interpretation erfolgt durch systematisierte Prozesse in ADM-Systemen (Automated Decision Making Systems) oder ML-Systemen (Machine Learning Systems). Ob die Vektoren dabei aber den Sinn für die erwünschten Ergebnisse wiedergeben können, ist fraglich. Die menschliche Kontextualisierung ist und bleibt die einzige verlässliche Möglichkeit, eine Interpretation vorzunehmen.
