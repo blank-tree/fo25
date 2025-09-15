@@ -13,10 +13,7 @@
 						<b>currently / upcoming</b>
 					</p>
 					<ul>
-						<li><i>Anna's room</i> – 22.08.–06.09.2025 Visarte Einsichten 2025 at Kupper Modern, Zürich</li>
-						<li><i>Anna's room</i> – 31.08.2025 17:00–19:00, "machines congregating excerpts" at Blinker, Kraftfeld, Winterthur</li>
-						<li><i>i dropped the metal ball on the glass table and it broke. what is it?</i> in collaboration with Cynthia Schemidt – 03.–07.09.2025 at <a href="https://ars.electronica.art/panic/en/view/i-dropped-the-metal-ball-on-the-glass-table-and-it-broke-what-is-it-20f38ddb450c8192adb4e6c2c137b9a1/" target="_blank">Ars Electronica Festival Linz AT</a>
-						</li>
+						<li><a href="https://creatrices.ch/event/billboard_06" target="_blank">Rating Rating Rating: Ein feministischer Blick auf Technologie</a> – creatrices.ch BILLBOARD 06, panel discussion, 01.10.2025 18:30, L200, Langstrasse 200, 8005 Zürich</li>
 					</ul>
 				</div>
 			</div>
