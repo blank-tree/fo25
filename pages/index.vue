@@ -13,7 +13,7 @@
 						<b>currently / upcoming</b>
 					</p>
 					<ul>
-						<li><a href="https://creatrices.ch/event/billboard_06" target="_blank">Rating Rating Rating: Ein feministischer Blick auf Technologie</a> – creatrices.ch BILLBOARD 06, panel discussion, 01.10.2025 18:30, L200, Langstrasse 200, 8005 Zürich</li>
+						<li><a href="https://creatrices.ch/event/billboard_06" target="_blank">Rating Rating Rating: Ein feministischer Blick auf Technologie</a> – creatrices.ch BILLBOARD 06, panel discussion, 01.10.2025 18:30, L200, Langstrasse 200, 8005 Zureich</li>
 					</ul>
 				</div>
 			</div>
