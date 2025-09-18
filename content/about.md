@@ -66,6 +66,7 @@ This website doesn’t use trackers or cookies.
 2025 – Boogen, A., & Obieta, F. (2025). Transdisciplinarity through the arts. In: Schüz, M. (eds) Transdisciplinary Thinking and Acting. Transdisciplinary Management of Ecological and Social Crises. Springer, Cham. 10.1007/978-3-031-70680-6_16  
 2024 – Do we have a problem with our problem-solving mechanisms? – Prompting the Future – HSLU DFK, Luzern  
 2024 – PhD colloquium of the University of Arts Linz  
+2024 – Do we have a problem with our problem-solving mechanisms? – Jahreskonferenz der Deutschen Gesellschaft für Designtheorie und -forschung (DGTF), Luzern  
 2023 – Do we have a problem with our problem-solving mechanisms? – HackThePromise Festival, Basel  
 2022 – VoteLog – online, Prototype Fund  
 2021 – Reden wir vom Geld? – panel discussion at Rathaus für Kultur, Lichtensteig  
