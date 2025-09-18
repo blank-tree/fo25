@@ -1,6 +1,6 @@
 Fernando Obieta (he/him, *1990) is a conceptual media artist and artistic researcher. After studying Computer Science with a focus on media technologies, he studied Interaction Design and Transdisciplinarity in the Arts at the Zurich University of the Arts. His artistic work and research focus on the critique and reflection of (digital) media, artefacts, systems, services, and solutions and how they are contingent and situated. He works at the intersection of concept, design, art, and technology, focussing on three methods: Finding errors or gaps in a system and making them specifically visible; shifting and reassembling certain parameters of a system; translating a system into other medialities. He is currently doing his PhD in *media theory* at the University of Arts Linz funded by the Swiss National Science Foundation’s (SNSF) Doc.CH program and is being hosted at the Lucerne School of Design, Film and Art. The dissertation “The Contingency of Design – a critique” is an investigating how a feminist ethics and morality of machines and their production could be constituted. To this end, he is working on a series of posits under the title “machines congregating”, in which he examines how different machines perceive people and how people observe others (or themselves) through machines.
 
-Lecturer at the [Lucerne School of Design, Film and Art](https://www.hslu.ch/de-ch/design-film-kunst/). Board member of [intersections](https://intersections.ch/) – for digitality, diversity and inclusivity. Founder and former president of [VoteLog](https://votelog.ch/) – contextualise the representative part of Swiss democracy. Initiator and collective member of the now-defunct [so-da.space](https://so-da.space.fernando-obieta.com/) offsite space in Zürich for cultural actors and artists.
+Lecturer at the [Lucerne School of Design, Film and Art](https://www.hslu.ch/de-ch/design-film-kunst/). Board member of [intersections](https://intersections.ch/) – for digitality, diversity and inclusivity. Founder and president of dissolved [VoteLog](https://votelog.ch/) project – contextualise the representative part of Swiss democracy. Initiator and collective member of the now-defunct [so-da.space](https://so-da.space.fernando-obieta.com/) offsite space in Zürich for cultural actors and artists.
 
 ::left-align
 Doctor of Philosophy in *Media Theory* (ongoing)  
@@ -60,7 +60,9 @@ This website doesn’t use trackers or cookies.
 2018 – HEAR – Toni-Areal, Zürich  
 2017 – HERE – Toni-Areal, Zürich  
 
-**selected publications and talks**  
+**selected publications, panels, and talks**  
+2025 – Rating Rating Rating: Ein feministischer Blick auf Technologie – creatrices.ch BILLBOARD 06 panel discussion with Adrienne Fichter, Anna Antonakis, Fernando Obieta, and Nikki Böhler  
+2025 – AI and its situatedness: a critical examination – Research Lunch, HSLU DFK, Luzern  
 2025 – Boogen, A., & Obieta, F. (2025). Transdisciplinarity through the arts. In: Schüz, M. (eds) Transdisciplinary Thinking and Acting. Transdisciplinary Management of Ecological and Social Crises. Springer, Cham. 10.1007/978-3-031-70680-6_16  
 2024 – Do we have a problem with our problem-solving mechanisms? – Prompting the Future – HSLU DFK, Luzern  
 2024 – PhD colloquium of the University of Arts Linz  

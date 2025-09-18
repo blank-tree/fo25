@@ -13,6 +13,7 @@
 						<b>currently / upcoming</b>
 					</p>
 					<ul>
+						<li>AI and its situatedness: a critical examination – research lunch talk, 25.09.2025, 12:15–13:15, HSLU DFK, Luzern</li>
 						<li><a href="https://creatrices.ch/event/billboard_06" target="_blank">Rating Rating Rating: Ein feministischer Blick auf Technologie</a> – creatrices.ch BILLBOARD 06, panel discussion, 01.10.2025 18:30, L200, Langstrasse 200, 8005 Zureich</li>
 					</ul>
 				</div>
