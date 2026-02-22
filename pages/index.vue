@@ -13,7 +13,6 @@
 						<b>currently / upcoming</b>
 					</p>
 					<ul>
-            <li><a href="https://ethz.ch/staffnet/de/anstellung-und-arbeit/fuehrung-und-entwicklung/kurse/details.13581o.html" target="_blank">KI Kompass: KI und Diversität: Faire Zukunft oder kopieren wir die Vergangenheit?</a> – VPPL ETH Zürich, 18.02.2026, 12:30–13:30, online</li>
 						<li>machines congregating – excerpt #5 – 15.03.2026, 17:00–19:00, Lagerplatz 18, 8400 Winterthur</li>
             <li>machines congregating – excerpts #6+#7 – 06.09.2026, 17:00–19:00, Lagerplatz 18, 8400 Winterthur</li>
             <li>machines congregating – excerpt #8 – 15.11.2026, 17:00–19:00, Lagerplatz 18, 8400 Winterthur</li>

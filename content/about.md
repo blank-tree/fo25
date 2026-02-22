@@ -61,6 +61,7 @@ This website doesn’t use trackers or cookies.
 2017 – HERE – Toni-Areal, Zürich  
 
 **selected publications, panels, and talks**  
+2026 – KI und Diversität: Faire Zukunft oder kopieren wir die Vergangenheit? – VPPL ETH Zürich, KI Kompass  
 2025 – Rating Rating Rating: Ein feministischer Blick auf Technologie – creatrices.ch BILLBOARD 06 panel discussion with Adrienne Fichter, Anna Antonakis, Fernando Obieta, and Nikki Böhler  
 2025 – AI and its situatedness: a critical examination – Research Lunch, HSLU DFK, Luzern  
 2025 – Boogen, A., & Obieta, F. (2025). Transdisciplinarity through the arts. In: Schüz, M. (eds) Transdisciplinary Thinking and Acting. Transdisciplinary Management of Ecological and Social Crises. Springer, Cham. 10.1007/978-3-031-70680-6_16  
