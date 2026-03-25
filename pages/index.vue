@@ -13,7 +13,6 @@
 						<b>currently / upcoming</b>
 					</p>
 					<ul>
-						<li>machines congregating – excerpt #5 – 15.03.2026, 17:00–19:00, Lagerplatz 18, 8400 Winterthur</li>
             <li>machines congregating – excerpts #6+#7 – 06.09.2026, 17:00–19:00, Lagerplatz 18, 8400 Winterthur</li>
             <li>machines congregating – excerpt #8 – 15.11.2026, 17:00–19:00, Lagerplatz 18, 8400 Winterthur</li>
 					</ul>

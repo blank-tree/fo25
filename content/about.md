@@ -20,6 +20,7 @@ This website doesn’t use trackers or cookies.
 2021–2022 – OpenData.ch Prototype Fund  
 
 **solo exhibitions**  
+2025–2026 – machines congregating – 5 excerpts – Blinker, Kraftfeld, Winterthur  
 2023–2024 – forever – Kunst(Zeug)Haus, Rapperswil  
 2023 – SUGGESTING, – so-da.space, Zürich  
 2022 – SUGGESTING, – IG Halle, Rapperswil  
