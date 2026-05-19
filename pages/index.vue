@@ -13,7 +13,7 @@
 						<b>currently / upcoming</b>
 					</p>
 					<ul>
-            <li>"messages" and talk – SHIFTING REGIMES, CHANGING ORDERS – 25.–26.06.2026, Goethe University Frankfurt/Main</li>
+            <li>"messages" exhibition and talk – SHIFTING REGIMES, CHANGING ORDERS – 25.–26.06.2026, Goethe University Frankfurt/Main</li>
             <li>machines congregating – excerpts #6+#7 – 06.09.2026, 17:00–19:00, Lagerplatz 18, 8400 Winterthur</li>
             <li>machines congregating – excerpt #8 – 15.11.2026, 17:00–19:00, Lagerplatz 18, 8400 Winterthur</li>
 					</ul>
