@@ -60,20 +60,21 @@ This website doesn’t use trackers or cookies.
 2018 – HEAR – Toni-Areal, Zürich  
 2017 – HERE – Toni-Areal, Zürich  
 
-**selected publications, panels, and talks**  
-2026 – KI und Diversität: Faire Zukunft oder kopieren wir die Vergangenheit? – VPPL ETH Zürich, KI Kompass  
+**selected publications, lectures, panels, and talks**  
+2026 – zu Zombiewissen: Was für ein Wissen schlurft durch die Texte einer von KI durchsetzten Welt? – essay, Exemplar #2, HSLU DFK  
+2026 – KI und Diversität: Faire Zukunft oder kopieren wir die Vergangenheit? – lecture, KI Kompass, VPPL ETH  
 2025 – Rating Rating Rating: Ein feministischer Blick auf Technologie – creatrices.ch BILLBOARD 06 panel discussion with Adrienne Fichter, Anna Antonakis, Fernando Obieta, and Nikki Böhler  
-2025 – AI and its situatedness: a critical examination – Research Lunch, HSLU DFK, Luzern  
+2025 – AI and its situatedness: a critical examination – lecture, Research Lunch, HSLU DFK  
 2025 – Boogen, A., & Obieta, F. (2025). Transdisciplinarity through the arts. In: Schüz, M. (eds) Transdisciplinary Thinking and Acting. Transdisciplinary Management of Ecological and Social Crises. Springer, Cham. 10.1007/978-3-031-70680-6_16  
-2024 – Do we have a problem with our problem-solving mechanisms? – Prompting the Future – HSLU DFK, Luzern  
+2024 – Do we have a problem with our problem-solving mechanisms? – lecture, Prompting the Future, HSLU DFK  
 2024 – PhD colloquium of the University of Arts Linz  
-2024 – Do we have a problem with our problem-solving mechanisms? – Jahreskonferenz der Deutschen Gesellschaft für Designtheorie und -forschung (DGTF), Luzern  
-2023 – Do we have a problem with our problem-solving mechanisms? – HackThePromise Festival, Basel  
-2022 – VoteLog – online, Prototype Fund  
+2024 – Do we have a problem with our problem-solving mechanisms? – lecture, Jahreskonferenz der Deutschen Gesellschaft für Designtheorie und -forschung (DGTF), Luzern  
+2023 – Do we have a problem with our problem-solving mechanisms? – lecture, HackThePromise Festival  
+2022 – VoteLog – presentation, Prototype Fund  
 2021 – Reden wir vom Geld? – panel discussion at Rathaus für Kultur, Lichtensteig  
 2020 – the formalisers – essay, ZHdK  
 2020 – What the Digital?! Ein Gespräch mit Fernando Obieta und Felix Stalder über Formalisierungen – podcast, ZHdK  
-2019 – verloren im www – Kunsthalle, Luzern  
+2019 – verloren im www – talk, Kunsthalle Luzern  
 
 **selected editing**  
 2025 – Silvan Jeger: \[unpublished novel\].  
