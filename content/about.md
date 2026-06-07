@@ -14,12 +14,12 @@ Federal Diploma of Vocational Education and Training as *Bookseller*
 This website doesn’t use trackers or cookies.
 <br>  
 
-**grants**  
+**selected grants**  
 2024–2027 – SNF Doc.CH  
 2021–2022 – ZHdK Z-Kubator “What’s next_studio”  
 2021–2022 – OpenData.ch Prototype Fund  
 
-**solo exhibitions**  
+**selected solo exhibitions**  
 2023–2024 – forever – Kunst(Zeug)Haus, Rapperswil  
 2023 – SUGGESTING, – so-da.space, Zürich  
 2022 – SUGGESTING, – IG Halle, Rapperswil  
@@ -77,6 +77,7 @@ This website doesn’t use trackers or cookies.
 2019 – verloren im www – talk, Kunsthalle Luzern  
 
 **selected editing**  
+2026 – Gregor Vogel: \[unpublished novel\].  
 2025 – Silvan Jeger: \[unpublished novel\].  
 2024–2025 – Marc Herter: \[unpublished novel\].  
 2024 – Dominic Oppliger: \[unpublished children’s novel\].  
