@@ -28,6 +28,7 @@ This website doesn’t use trackers or cookies.
 2017 – for your eyes only – Kaskadenhalle, Toni-Areal, Zürich  
 
 **selected group exhibitions**  
+2026 – messages – Shifting Regimes; Changing Orders – Normative Orders, Goethe University, Frankfurt am Main DE  
 2025 – i dropped the metal ball on the glass table and it broke. what is it? – Ars Electronica Festival, Linz AT  
 2025 – Anna's room – Visarte Einsichten 2025 at Kupper Modern, Zürich  
 2024 – i dropped the metal ball on the glass table and it broke. what is it? – HackThePromise Festival, Basel  
@@ -62,6 +63,7 @@ This website doesn’t use trackers or cookies.
 
 **selected publications, lectures, panels, and talks**  
 2026 – zu Zombiewissen: Was für ein Wissen schlurft durch die Texte einer von KI durchsetzten Welt? – essay, Exemplar #2, HSLU DFK  
+2026 – on machines congregating – Shifting Regimes; Changing Orders – Normative Orders, Goethe University, Frankfurt am Main DE  
 2026 – KI und Diversität: Faire Zukunft oder kopieren wir die Vergangenheit? – lecture, KI Kompass, VPPL ETH  
 2025 – Rating Rating Rating: Ein feministischer Blick auf Technologie – creatrices.ch BILLBOARD 06 panel discussion with Adrienne Fichter, Anna Antonakis, Fernando Obieta, and Nikki Böhler  
 2025 – AI and its situatedness: a critical examination – lecture, Research Lunch, HSLU DFK  
