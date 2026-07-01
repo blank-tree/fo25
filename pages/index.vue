@@ -14,7 +14,7 @@
 					</p>
 					<ul>
             <li>"messages" exhibition and talk – SHIFTING REGIMES, CHANGING ORDERS – 25.–26.06.2026, Goethe University Frankfurt/Main</li>
-            <li>«zu Zombiewissen» – contribution to the publication «Exemplar #2» – July 2026 – <a href="https://www.hslu.ch/de-ch/design-film-kunst/aktuelles/veroeffentlichungen/exemplar/" target="_blank">HSLU DFK Exemplar Reihe</a></li>
+            <li>«zu Zombiewissen» – contribution to the publication «Exemplar #2» – June 2026 – <a href="https://www.hslu.ch/de-ch/design-film-kunst/aktuelles/veroeffentlichungen/exemplar/" target="_blank">HSLU DFK Exemplar Reihe</a></li>
             <li>machines congregating – excerpts #6+#7 – 06.09.2026, 17:00–19:00, Lagerplatz 18, 8400 Winterthur</li>
             <li>group exhibition "knowledge beyond" – 15.–29.10.2026, HSLU DFK, Nylsuisseplatz 1, 6020 Luzern</li>
             <li>duo exhibition "Visarte Zürich – FRISCH" – 29.10.–01.11.2026, Kabinett Visarte, Schoffelgasse 10, 8001 Zürich</li>
