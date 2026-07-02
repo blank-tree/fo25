@@ -18,6 +18,7 @@
             <li>machines congregating – excerpts #6+#7 – 06.09.2026, 17:00–19:00, Lagerplatz 18, 8400 Winterthur</li>
             <li>group exhibition "knowledge beyond" – 15.–29.10.2026, HSLU DFK, Nylsuisseplatz 1, 6020 Luzern</li>
             <li>duo exhibition "Visarte Zürich – FRISCH" – 29.10.–01.11.2026, Kabinett Visarte, Schoffelgasse 10, 8001 Zürich</li>
+            <li>keynote, GLAMhack 2026 – 12.11.2026 – Campo Winterthur</li>
             <li>machines congregating – excerpt #8 – 15.11.2026, 17:00–19:00, Lagerplatz 18, 8400 Winterthur</li>
             <li>solo exhibition – 29.04.–27.06.2027, Benzeholz, Benzeholzplatz 2, 6045 Meggen</li>
 					</ul>
