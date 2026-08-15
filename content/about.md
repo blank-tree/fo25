@@ -1,6 +1,6 @@
 Fernando Obieta (he/him, *1990) is a conceptual media artist and artistic researcher. After studying Computer Science with a focus on media technologies, he studied Interaction Design and Transdisciplinarity in the Arts at the Zurich University of the Arts. His artistic work and research focus on the critique and reflection of (digital) media, artefacts, systems, services, and solutions and how they are contingent and situated. He works at the intersection of concept, design, art, and technology, focussing on three methods: Finding errors or gaps in a system and making them specifically visible; shifting and reassembling certain parameters of a system; translating a system into other medialities. He is currently doing his PhD in *media theory* at the University of Arts Linz funded by the Swiss National Science Foundation’s (SNSF) Doc.CH program and is being hosted at the Lucerne School of Design, Film and Art. The dissertation “The Contingency of Design – a critique” is an investigating how a feminist ethics and morality of machines and their production could be constituted. To this end, he is working on a series of posits under the title “machines congregating”, in which he examines how different machines perceive people and how people observe others (or themselves) through machines.
 
-Lecturer at the [Lucerne School of Design, Film and Art](https://www.hslu.ch/de-ch/design-film-kunst/). Board member of [intersections](https://intersections.ch/) – for digitality, diversity and inclusivity. Founder and president of the dissolved [VoteLog](https://votelog.ch/) project – contextualise the representative part of Swiss democracy. Initiator and collective member of the now-defunct [so-da.space](https://so-da.space.fernando-obieta.com/) offsite space in Zürich for cultural actors and artists.
+Lecturer at the [Lucerne School of Design, Film and Art](https://www.hslu.ch/de-ch/hochschule-luzern/ueber-uns/personensuche/profile/?pid=5352). Board member of [intersections](https://intersections.ch/) – for digitality, diversity and inclusivity. Founder and president of the dissolved [VoteLog](https://votelog.ch/) project – contextualise the representative part of Swiss democracy. Initiator and collective member of the now-defunct [so-da.space](https://so-da.space.fernando-obieta.com/) offsite space in Zürich for cultural actors and artists.
 
 ::left-align
 Doctor of Philosophy in *Media Theory* (ongoing)  
@@ -10,6 +10,10 @@ Advanced Federal Diploma of Higher Education in Computer Science with a Speciali
 Federal Diploma of Vocational Education and Training as *Bookseller*  
 
 [shout@fernando-obieta.com](mailto:shout@fernando-obieta.com)
+
+
+Some Links: [ORCID](https://orcid.org/0009-0009-0374-7816), [up&coming](https://www.upandcoming.ch/artists/fernando-obieta), [Visarte](https://visarte.ch/de/mitglied/21333/) 
+
 
 This website doesn’t use trackers or cookies.
 <br>  
