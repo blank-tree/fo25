@@ -22,7 +22,7 @@
             <li>messages – groub exhibition «Erbleichen» – 06.–27.11.2026 – NEU!, Untere Vogelsangstrasse 4, 8400 Winterthur</li>
             <li>these burning bridges aren't as bright as I had hoped – keynote, GLAMhack 2026 – 12.11.2026 – Campo Winterthur</li>
             <li>machines congregating – excerpt #8 – 21.02.2027, 17:00–19:00, Lagerplatz 18, 8400 Winterthur</li>
-            <li>on communicating / on communication – solo exhibition – 29.04.–27.06.2027, Benzeholz, Benzeholzplatz 2, 6045 Meggen</li>
+            <li>on communicating communication – solo exhibition – 29.04.–27.06.2027, Benzeholz, Benzeholzplatz 2, 6045 Meggen</li>
 					</ul>
 				</div>
 			</div>
