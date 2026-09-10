@@ -32,6 +32,7 @@ This website doesn’t use trackers or cookies.
 2017 – for your eyes only – Kaskadenhalle, Toni-Areal, Zürich  
 
 **selected group exhibitions**  
+2026 – no Artificial Intelligence – Visarte Einsichten 2026 at Kupper Modern, Zürich  
 2026 – messages – Shifting Regimes; Changing Orders – Normative Orders, Goethe University, Frankfurt am Main DE  
 2025 – i dropped the metal ball on the glass table and it broke. what is it? – Ars Electronica Festival, Linz AT  
 2025 – Anna's room – Visarte Einsichten 2025 at Kupper Modern, Zürich  
