@@ -17,7 +17,7 @@
             <li>«zu Zombiewissen» – contribution to the publication «Exemplar #2» – June 2026 – <a href="https://www.hslu.ch/de-ch/design-film-kunst/aktuelles/veroeffentlichungen/exemplar/" target="_blank">HSLU DFK Exemplar Reihe</a></li>
             <li>no Artificial Intelligence – group exhibition "Visarte Zürich – Einsichten" – 29.08.–12.09.2026, Kupper Modern, Zwinglistrasse 10, 8004 Zürich</li>
             <li>machines congregating – excerpts #6+#7 – 06.09.2026, 17:00–19:00, Lagerplatz 18, 8400 Winterthur</li>
-            <li>i dropped the metal ball on the glass table and it broke. what is it? & messages – group exhibition "knowledge beyond" – 15.–29.10.2026, HSLU DFK, Nylsuisseplatz 1, 6020 Luzern</li>
+            <li>i dropped the metal ball on the glass table and it broke. what is it? & messages – <a href="https://www.hslu.ch/de-ch/design-film-kunst/aktuelles/agenda/alle-veranstaltungen/2026/10/15/knowledge-beyond/" target="_blank">group exhibition "knowledge beyond"</a> – 15.–29.10.2026, HSLU DFK, Nylsuisseplatz 1, 6020 Luzern</li>
             <li>roaming & messages – duo exhibition "Visarte Zürich – FRISCH" – 29.10.–01.11.2026, Kabinett Visarte, Schoffelgasse 10, 8001 Zürich</li>
             <li>roaming – groub exhibition «Erbleichen» – 06.–27.11.2026 – NEU!, Untere Vogelsangstrasse 4, 8400 Winterthur</li>
             <li>these burning bridges aren't as bright as I had hoped – keynote, GLAMhack 2026 – 12.11.2026 – Campo Winterthur</li>
