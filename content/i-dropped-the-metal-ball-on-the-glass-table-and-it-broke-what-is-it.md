@@ -4,7 +4,7 @@ slug: "i-dropped-the-metal-ball-on-the-glass-table-and-it-broke-what-is-it"
 project: true
 date: "2024-09-27"
 video: ''
-gallery: ["img/projects/i-dropped-the-metal-ball-on-the-glass-table-and-it-broke-what-is-it/261015-metal_ball-hslu-_DSC4785.jpg","img/projects/i-dropped-the-metal-ball-on-the-glass-table-and-it-broke-what-is-it/261015-metal_ball-hslu-_DSC4797.jpg","img/projects/i-dropped-the-metal-ball-on-the-glass-table-and-it-broke-what-is-it/mb-v3-1.jpg","img/projects/i-dropped-the-metal-ball-on-the-glass-table-and-it-broke-what-is-it/mb-v3-5.jpg","img/projects/i-dropped-the-metal-ball-on-the-glass-table-and-it-broke-what-is-it/mb-v3-9.jpg"]
+gallery: ["img/projects/i-dropped-the-metal-ball-on-the-glass-table-and-it-broke-what-is-it/261015-metal_ball-hslu-_DSC4785-v02.jpg","img/projects/i-dropped-the-metal-ball-on-the-glass-table-and-it-broke-what-is-it/261015-metal_ball-hslu-_DSC4797.jpg","img/projects/i-dropped-the-metal-ball-on-the-glass-table-and-it-broke-what-is-it/mb-v3-1.jpg","img/projects/i-dropped-the-metal-ball-on-the-glass-table-and-it-broke-what-is-it/mb-v3-5.jpg","img/projects/i-dropped-the-metal-ball-on-the-glass-table-and-it-broke-what-is-it/mb-v3-9.jpg"]
 links: false
 exhibitions: [{"text": "Ars Electronica Festival 2025 Linz", "time": "03.–07.09.2025", "link": "https://ars.electronica.art/panic/en/view/i-dropped-the-metal-ball-on-the-glass-table-and-it-broke-what-is-it-20f38ddb450c8192adb4e6c2c137b9a1/"},{"text":"HackThePromise Festival Basel","time":"27.–29.09.2024","link":"https://hackthepromise.org/"},{"text":"HSLU Knowledge Beyond","time":"15.–29.10.2026","link":"https://www.hslu.ch/de-ch/design-film-kunst/aktuelles/agenda/alle-veranstaltungen/2026/10/15/knowledge-beyond/"}]
 ---
